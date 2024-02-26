@@ -27,7 +27,6 @@ Refer to the `docs/installation.md` for detailed installation instructions.
 
 The framework is designed to be simple to use yet highly configurable. You can start a basic scraping task with just a few lines of code:
 
-```python
 from scraper.request_manager import RequestManager
 from scraper.html_parser import HTMLParser
 from scraper.config import BaseConfig

@@ -1,4 +1,3 @@
-```python
 import unittest
 from selenium.webdriver import Chrome, ChromeOptions
 from extensions.dynamic_interaction_plugins import DynamicInteractionPlugin
@@ -37,4 +36,4 @@ class TestDynamicInteractionPlugins(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-```
+

@@ -1,4 +1,3 @@
-```python
 """
 dynamic_interaction_plugins.py
 
@@ -68,4 +67,3 @@ class ClickToRevealContentPlugin(DynamicInteractionPlugin):
 
 # Additional plugins can be defined here following the same structure.
 
-```

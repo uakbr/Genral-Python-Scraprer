@@ -1,4 +1,3 @@
-```python
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
@@ -62,4 +61,4 @@ class DynamicContentHandler:
 
     def __exit__(self, exc_type, exc_val, exc_tb):
         self.close()
-```
+
